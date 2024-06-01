@@ -1,5 +1,5 @@
 # LinkedListCPP
 
-##Screenshot of application:
+## Screenshot of application:
 
 ![Screenshot 1](screenshots/linkedlistcpp.png)
