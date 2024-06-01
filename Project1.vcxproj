@@ -138,11 +138,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="linkedList.cpp" />
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="src\linkedList.cpp" />
+    <ClCompile Include="src\main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="linkedList.h" />
+    <ClInclude Include="src\linkedList.h" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="screenshots\linkedlistcpp.png" />
